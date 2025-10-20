@@ -30,7 +30,41 @@ https://www.idc.com/about/rss/
 # Check individual firm websites for RSS feed availability.
 
 # ================================
+# CATEGORY 2: Research Institutes & Think Tanks (18 sources)
+# ================================
 
+# French Think Tanks
+https://www.ifri.org/rss.xml
+https://www.institutmontaigne.org/feed/
+https://www.jean-jaures.org/feed/
+https://www.institutsapiens.fr/feed/
+https://www.fondapol.org/feed/
+https://www.institut-entreprise.fr/feed/
+
+# European Think Tanks
+https://www.bruegel.org/rss
+https://www.ceps.eu/feed/
+https://www.epc.eu/en/RSS~2a1804.xml
+https://carnegieeurope.eu/rss
+
+# Tech-Focused Research
+https://www.nesta.org.uk/feed/
+https://datainnovation.org/feed/
+
+# Additional European Think Tanks
+https://www.etui.org/feed
+https://ecipe.org/feed/
+
+# Academic Research
+https://www.inria.fr/fr/feed
+https://www.cnrs.fr/fr/feed
+
+# Note: IFRI and Bruegel have particularly strong content on digital sovereignty.
+# Institut Montaigne covers French digital policy extensively.
+
+# ================================
+# CATEGORY 3: French/European Tech Media (25 sources)
+# ================================
 
 
 
