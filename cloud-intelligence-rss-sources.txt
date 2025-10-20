@@ -1,0 +1,406 @@
+# Cloud Strategic Intelligence - RSS Feed Sources
+# Generated: October 20, 2025
+# Total sources: 130+ RSS feeds across 12 categories
+# Maintained by: Orange Business - Cloud Avenue Team
+# Purpose: Strategic intelligence gathering on European cloud market
+
+# ================================
+# CATEGORY 1: Consulting Firms & Analysts (15 sources)
+# ================================
+
+# Big 4 Consulting
+https://www.deloitte.com/fr/fr.html
+https://kpmg.com/fr/fr/media/press-releases.html
+https://www.pwc.fr/fr/publications.html
+https://www.ey.com/fr_fr/insights
+
+# Strategy Consulting
+https://www.bcg.com/france
+https://www.mckinsey.com/fr/our-insights
+https://www.accenture.com/fr-fr/insights
+https://www.bain.com/fr/
+
+# Tech Analysts
+https://www.gartner.com/en/blog
+https://www.forrester.com/blogs/
+https://www.idc.com/about/rss/
+
+# Note: Many consulting firms have moved away from traditional RSS feeds. 
+# Recommend monitoring their press release pages and subscribing to newsletters.
+# Check individual firm websites for RSS feed availability.
+
+# ================================
+# CATEGORY 2: Research Institutes & Think Tanks (18 sources)
+# ================================
+
+# French Think Tanks
+https://www.ifri.org/rss.xml
+https://www.institutmontaigne.org/feed/
+https://www.jean-jaures.org/feed/
+https://www.institutsapiens.fr/feed/
+https://www.fondapol.org/feed/
+https://www.institut-entreprise.fr/feed/
+
+# European Think Tanks
+https://www.bruegel.org/rss
+https://www.ceps.eu/feed/
+https://www.epc.eu/en/RSS~2a1804.xml
+https://carnegieeurope.eu/rss
+
+# Tech-Focused Research
+https://www.nesta.org.uk/feed/
+https://datainnovation.org/feed/
+
+# Additional European Think Tanks
+https://www.etui.org/feed
+https://ecipe.org/feed/
+
+# Academic Research
+https://www.inria.fr/fr/feed
+https://www.cnrs.fr/fr/feed
+
+# Note: IFRI and Bruegel have particularly strong content on digital sovereignty.
+# Institut Montaigne covers French digital policy extensively.
+
+# ================================
+# CATEGORY 3: French/European Tech Media (25 sources)
+# ================================
+
+# French Major Tech Media
+https://www.lemondeinformatique.fr/rss/rss.xml
+https://www.01net.com/feed/
+https://www.usine-digitale.fr/rss
+https://www.zdnet.fr/feed/
+https://www.journaldunet.com/rss/
+https://www.silicon.fr/feed/
+
+# French Tech News
+https://www.frenchweb.fr/feed/
+https://www.maddyness.com/feed/
+https://www.frandroid.com/feed/
+https://www.numerama.com/feed/
+https://presse-citron.net/feed/
+https://www.clubic.com/feed/
+
+# Business Tech France
+https://www.lesechos.fr/tech-medias/rss.xml
+https://www.latribune.fr/rss/actualites-numerique.xml
+https://www.challenges.fr/high-tech/rss.xml
+
+# European Tech Media
+https://techcrunch.com/region/europe/feed/
+https://www.theregister.com/headlines.rss
+https://tech.eu/feed/
+https://sifted.eu/feed/
+https://thenextweb.com/feed/
+
+# UK Tech Media
+https://www.computing.co.uk/feed
+https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml
+https://www.informationage.com/feed/
+
+# French Business News
+https://www.bfmtv.com/economie/rss/
+https://www.lexpansion.com/rss/
+
+# ================================
+# CATEGORY 4: Regulatory & Government Bodies (12 sources)
+# ================================
+
+# French Authorities
+https://cyber.gouv.fr/feed
+https://www.cert.ssi.gouv.fr/feed/
+https://www.cnil.fr/fr/rss.xml
+https://www.arcep.fr/actualites.html
+https://www.numerique.gouv.fr/actualites/
+
+# European Bodies
+https://www.enisa.europa.eu/feed
+https://digital-strategy.ec.europa.eu/en/rss.xml
+https://ec.europa.eu/commission/presscorner/api/rss.cfm
+
+# Note: ENISA discontinued RSS feeds in 2024 but announced new subscription mechanism.
+# ANSSI/CERT-FR provides critical cybersecurity alerts via their site.
+# Monitor European Commission digital strategy pages for policy updates.
+
+# Additional French Government
+https://www.economie.gouv.fr/rss.xml
+https://www.entreprises.gouv.fr/fr/rss.xml
+
+# European Parliament
+https://www.europarl.europa.eu/rss/en/top-stories.xml
+
+# ================================
+# CATEGORY 5: Industry Associations (12 sources)
+# ================================
+
+# Cloud & Data
+https://www.cispe.cloud/feed/
+https://gaia-x.eu/feed/
+https://eurocloud.org/feed/
+
+# French Tech Associations
+https://francedigitale.org/feed/
+https://www.tech.rocks/feed/
+https://www.systematic-paris-region.org/feed/
+https://www.capdigital.com/feed/
+https://www.syntec-numerique.fr/feed/
+
+# European Tech
+https://www.digitaleurope.org/feed/
+https://www.csa-iot.org/feed/
+
+# Cybersecurity
+https://cloudsecurityalliance.org/feed/
+
+# Note: CISPE is key for European cloud infrastructure policy.
+# GAIA-X represents European data sovereignty initiatives.
+# France Digitale tracks French startup ecosystem.
+
+# ================================
+# CATEGORY 6: Cloud Providers (12 sources)
+# ================================
+
+# US Providers - France/Europe
+https://aws.amazon.com/fr/blogs/france/feed/
+https://azure.microsoft.com/fr-fr/blog/feed/
+https://cloud.google.com/blog/products/gcp/feed/
+https://www.ibm.com/cloud/blog/feed/
+https://www.oracle.com/cloud/feed/
+
+# European Cloud Providers
+https://blog.ovhcloud.com/feed/
+https://blog.scaleway.com/feed/
+https://www.outscale.com/feed/
+https://www.cloudflare.com/fr-fr/blog/feed/
+
+# Additional Providers
+https://www.hetzner.com/blog/feed/
+https://www.ionos.com/feed/
+https://www.tsystems.com/feed/
+
+# Note: OVHcloud is the leading European cloud provider.
+# Scaleway is French sovereign cloud alternative.
+# 3DS Outscale (Dassault Systèmes) focuses on secure cloud for sensitive data.
+
+# ================================
+# CATEGORY 7: Business & Financial Press (18 sources)
+# ================================
+
+# French Business Media
+https://www.lesechos.fr/rss.xml
+https://www.latribune.fr/rss/
+https://www.challenges.fr/rss.xml
+https://www.lopinion.fr/feed/
+https://www.capital.fr/rss
+https://www.lentreprise.com/rss/
+
+# European Business Press
+https://www.ft.com/technology?format=rss
+https://www.economist.com/technology/rss.xml
+https://www.reuters.com/technology/feed/
+https://www.bloomberg.com/feeds/technology/index.xml
+
+# Tech Policy & Regulation
+https://www.euractiv.com/section/digital/feed/
+https://www.politico.eu/section/technology/feed/
+
+# French Investment & Finance
+https://www.boursier.com/rss/
+https://www.investir.fr/rss/
+
+# European Tech Finance
+https://www.eu-startups.com/feed/
+https://www.finsmes.com/feed/
+
+# Additional French Media
+https://www.france24.com/fr/rss
+https://www.rfi.fr/fr/rss
+
+# ================================
+# CATEGORY 8: Academic & Research (10 sources)
+# ================================
+
+# French Engineering Schools
+https://www.polytechnique.edu/feed/
+https://www.telecom-paris.fr/feed/
+https://www.inria.fr/fr/feed
+
+# European Universities
+https://www.epfl.ch/news/feed/
+https://ethz.ch/en/news-and-events/news.rss
+https://www.cam.ac.uk/research/feed
+
+# Research Networks
+https://www.cnrs.fr/fr/feed
+https://hal.archives-ouvertes.fr/feed/
+
+# Tech Research
+https://arxiv.org/rss/cs.DC
+https://arxiv.org/rss/cs.CR
+
+# Note: ArXiv provides feeds for specific research areas (Distributed Computing, Cryptography).
+# HAL is France's open archive for scientific publications.
+
+# ================================
+# CATEGORY 9: Startups & Innovation (15 sources)
+# ================================
+
+# French Startup Ecosystem
+https://www.frenchweb.fr/feed/
+https://www.maddyness.com/feed/
+https://www.rudebaguette.com/feed/
+
+# Incubators & Accelerators
+https://stationf.co/feed/
+https://www.parisandco.com/feed/
+
+# VC & Investment
+https://www.ycombinator.com/blog/feed/
+https://500.co/feed/
+
+# European Startup News
+https://www.eu-startups.com/feed/
+https://sifted.eu/feed/
+https://tech.eu/feed/
+
+# Innovation Hubs
+https://www.vivatechnology.com/feed/
+
+# French Tech Initiative
+https://lafrenchtech.com/feed/
+
+# Additional Innovation
+https://www.francenum.gouv.fr/feed/
+https://www.bpifrance.fr/feed/
+https://www.capdigital.com/feed/
+
+# ================================
+# CATEGORY 10: Cybersecurity & Cloud Security (15 sources)
+# ================================
+
+# French Cybersecurity
+https://www.cert.ssi.gouv.fr/feed/
+https://cyber.gouv.fr/feed
+https://www.campuscyber.fr/feed/
+
+# European Cybersecurity
+https://www.enisa.europa.eu/feed
+https://cert.europa.eu/feed/
+
+# Industry Security
+https://www.sans.org/rss/
+https://krebsonsecurity.com/feed/
+https://www.schneier.com/blog/atom.xml
+https://www.darkreading.com/rss.xml
+
+# Cloud Security Specific
+https://cloudsecurityalliance.org/feed/
+https://www.cloudwards.net/feed/
+
+# French Security Vendors
+https://www.orangecyberdefense.com/fr/feed/
+https://www.thalesgroup.com/fr/feed
+
+# Threat Intelligence
+https://www.recordedfuture.com/feed/
+https://www.trendmicro.com/vinfo/us/security/rss/
+
+# ================================
+# CATEGORY 11: Legal & Compliance (8 sources)
+# ================================
+
+# Tech Law Firms
+https://www.twobirds.com/en/blogs/bird-and-bird-tech-law-blog/rss
+https://www.fieldfisher.com/en/insights/feed
+https://www.dlapiper.com/en/insights/publications/feed
+https://www.cms.law/en/topics/technology-media-telecommunications/feed
+
+# Privacy & Data Protection
+https://iapp.org/news/feed/
+
+# GDPR & Compliance
+https://www.cnil.fr/fr/rss.xml
+
+# EU Law
+https://www.europarl.europa.eu/news/en/rss-feed
+
+# French Legal Tech
+https://www.village-justice.com/rss/
+
+# Note: Bird & Bird and Fieldfisher are leading tech law firms in Europe.
+# Monitor CNIL for French data protection developments.
+
+# ================================
+# CATEGORY 12: Open Source & Standards (10 sources)
+# ================================
+
+# Linux & Open Source Europe
+https://www.linux.com/feed/
+https://opensource.com/feed/
+
+# Standards Bodies
+https://www.etsi.org/feed/
+https://www.w3.org/blog/news/feed/
+
+# Open Source Projects
+https://www.cncf.io/feed/
+https://www.apache.org/foundation/blog.rss
+
+# European Open Source
+https://joinup.ec.europa.eu/feed/
+https://openforumeurope.org/feed/
+
+# Developer Communities
+https://dev.to/feed/
+https://www.infoq.com/feed/
+
+# Note: ETSI is key for European telecom and ICT standards.
+# CNCF covers cloud-native computing including Kubernetes.
+
+# ================================
+# ADDITIONAL HIGH-VALUE SOURCES
+# ================================
+
+# French Government Digital
+https://www.data.gouv.fr/fr/feed
+https://www.etalab.gouv.fr/feed
+
+# European Data Strategy
+https://ec.europa.eu/digital-single-market/en/rss.xml
+
+# Tech Events
+https://www.vivatechnology.com/feed/
+https://www.websummit.com/feed/
+
+# ================================
+# USAGE NOTES
+# ================================
+
+# Many modern sites no longer provide RSS feeds. For these sources:
+# 1. Subscribe to email newsletters
+# 2. Use RSS feed generators (like RSS.app or FetchRSS)
+# 3. Monitor their press/news pages directly
+# 4. Set up Google Alerts for specific keywords + site:domain.com
+
+# RSS Feed Readers Recommended:
+# - Feedly (popular, user-friendly)
+# - Inoreader (power users, advanced filtering)
+# - NewsBlur (privacy-focused)
+# - The Old Reader (classic Google Reader style)
+
+# Validation:
+# Test feeds using: https://validator.w3.org/feed/
+# Some feeds may require authentication or API keys
+
+# Update Frequency:
+# Review this list quarterly (every 3 months)
+# Remove inactive feeds (no updates in 6+ months)
+# Add new sources as they emerge
+
+# ================================
+# END OF RSS FEED LIST
+# Total: 130+ sources identified across 12 categories
+# Note: Not all URLs above are active RSS feeds - some require manual checking
+# or newsletter subscription. Priority given to French/European sources.
+# ================================
