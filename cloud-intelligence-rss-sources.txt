@@ -30,69 +30,7 @@ https://www.idc.com/about/rss/
 # Check individual firm websites for RSS feed availability.
 
 # ================================
-# CATEGORY 2: Research Institutes & Think Tanks (18 sources)
-# ================================
 
-# French Think Tanks
-https://www.ifri.org/rss.xml
-https://www.institutmontaigne.org/feed/
-https://www.jean-jaures.org/feed/
-https://www.institutsapiens.fr/feed/
-https://www.fondapol.org/feed/
-https://www.institut-entreprise.fr/feed/
-
-# European Think Tanks
-https://www.bruegel.org/rss
-https://www.ceps.eu/feed/
-https://www.epc.eu/en/RSS~2a1804.xml
-https://carnegieeurope.eu/rss
-
-# Tech-Focused Research
-https://www.nesta.org.uk/feed/
-https://datainnovation.org/feed/
-
-# Additional European Think Tanks
-https://www.etui.org/feed
-https://ecipe.org/feed/
-
-# Academic Research
-https://www.inria.fr/fr/feed
-https://www.cnrs.fr/fr/feed
-
-# Note: IFRI and Bruegel have particularly strong content on digital sovereignty.
-# Institut Montaigne covers French digital policy extensively.
-
-# ================================
-# CATEGORY 3: French/European Tech Media (25 sources)
-# ================================
-
-# French Major Tech Media
-https://www.lemondeinformatique.fr/rss/rss.xml
-https://www.01net.com/feed/
-https://www.usine-digitale.fr/rss
-https://www.zdnet.fr/feed/
-https://www.journaldunet.com/rss/
-https://www.silicon.fr/feed/
-
-# French Tech News
-https://www.frenchweb.fr/feed/
-https://www.maddyness.com/feed/
-https://www.frandroid.com/feed/
-https://www.numerama.com/feed/
-https://presse-citron.net/feed/
-https://www.clubic.com/feed/
-
-# Business Tech France
-https://www.lesechos.fr/tech-medias/rss.xml
-https://www.latribune.fr/rss/actualites-numerique.xml
-https://www.challenges.fr/high-tech/rss.xml
-
-# European Tech Media
-https://techcrunch.com/region/europe/feed/
-https://www.theregister.com/headlines.rss
-https://tech.eu/feed/
-https://sifted.eu/feed/
-https://thenextweb.com/feed/
 
 
 
