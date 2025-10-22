@@ -75,6 +75,10 @@ https://www.journaldunet.com/rss/
 https://www.silicon.fr/feed/
 
 # French Tech News
+https://www.alliancy.fr/feed
+https://www.datacenter-magazine.fr/feed/
+https://www.datacenter-magazine.fr/category/cloud-comptuting/feed/
+https://www.datacenter-magazine.fr/category/infrastructure/feed/
 https://www.frenchweb.fr/feed/
 https://www.maddyness.com/feed/
 https://www.frandroid.com/feed/
@@ -373,34 +377,9 @@ https://ec.europa.eu/digital-single-market/en/rss.xml
 https://www.vivatechnology.com/feed/
 https://www.websummit.com/feed/
 
-# ================================
-# USAGE NOTES
-# ================================
-
-# Many modern sites no longer provide RSS feeds. For these sources:
-# 1. Subscribe to email newsletters
-# 2. Use RSS feed generators (like RSS.app or FetchRSS)
-# 3. Monitor their press/news pages directly
-# 4. Set up Google Alerts for specific keywords + site:domain.com
-
-# RSS Feed Readers Recommended:
-# - Feedly (popular, user-friendly)
-# - Inoreader (power users, advanced filtering)
-# - NewsBlur (privacy-focused)
-# - The Old Reader (classic Google Reader style)
-
-# Validation:
-# Test feeds using: https://validator.w3.org/feed/
-# Some feeds may require authentication or API keys
-
-# Update Frequency:
-# Review this list quarterly (every 3 months)
-# Remove inactive feeds (no updates in 6+ months)
-# Add new sources as they emerge
 
 # ================================
 # END OF RSS FEED LIST
-# Total: 130+ sources identified across 12 categories
 # Note: Not all URLs above are active RSS feeds - some require manual checking
 # or newsletter subscription. Priority given to French/European sources.
 # ================================
