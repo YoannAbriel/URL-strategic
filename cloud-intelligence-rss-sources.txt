@@ -10,12 +10,24 @@
 
 # Big 4 Consulting
 https://www.deloitte.com/fr/fr.html
+https://blog.deloitte.fr/?icid=wn_
 https://kpmg.com/fr/fr/media/press-releases.html
+https://kpmg.com/fr/fr/blogs/home.html
+https://www.pwc.fr/fr
 https://www.pwc.fr/fr/publications.html
 https://www.ey.com/fr_fr/insights
+https://www.ey.com/fr_fr/automotive-transportation
+https://www.ey.com/fr_fr/consumer-products-retail
+https://www.ey.com/fr_fr/energy-resources
+https://www.ey.com/fr_fr/government-public-sector
+https://www.ey.com/fr_fr/health
+https://www.ey.com/fr_fr/private-equity
+https://www.ey.com/fr_fr/real-estate-hospitality-construction
+https://www.ey.com/fr_fr/tmt
 
 # Strategy Consulting
 https://www.bcg.com/france
+https://www.bcg.com/search?f6=00000171-eb92-d340-ad71-eb962d4f0000&f7=00000171-f179-d0c2-a57d-fbfd3be20000&s=1
 https://www.mckinsey.com/fr/our-insights
 https://www.accenture.com/fr-fr/insights
 https://www.bain.com/fr/
@@ -24,6 +36,7 @@ https://www.bain.com/fr/
 https://www.gartner.com/en/blog
 https://www.forrester.com/blogs/
 https://www.idc.com/about/rss/
+https://sitsi.pacanalyst.com/blog/
 
 # Note: Many consulting firms have moved away from traditional RSS feeds. 
 # Recommend monitoring their press release pages and subscribing to newsletters.
@@ -31,6 +44,7 @@ https://www.idc.com/about/rss/
 
 https://redmonk.com/feed/
 https://redmonk.com/feed/atom/
+
 # ================================
 # CATEGORY 2: Research Institutes & Think Tanks (18 sources)
 # ================================
@@ -39,6 +53,7 @@ https://redmonk.com/feed/atom/
 https://www.ifri.org/rss.xml
 https://www.institutmontaigne.org/feed/
 https://www.jean-jaures.org/feed/
+https://www.jean-jaures.org/publications/
 https://www.institutsapiens.fr/feed/
 https://www.fondapol.org/feed/
 https://www.institut-entreprise.fr/feed/
@@ -52,6 +67,7 @@ https://carnegieeurope.eu/rss
 # Tech-Focused Research
 https://www.nesta.org.uk/feed/
 https://datainnovation.org/feed/
+https://datafloq.com/
 
 # Additional European Think Tanks
 https://www.etui.org/feed
@@ -66,6 +82,7 @@ https://www.cnrs.fr/fr/feed
 
 https://ires.fr/feed/
 https://www.institutmontaigne.org/rss.xml
+
 # ================================
 # CATEGORY 3: French/European Tech Media (25 sources)
 # ================================
@@ -76,7 +93,14 @@ https://www.01net.com/feed/
 https://www.usine-digitale.fr/rss
 https://www.zdnet.fr/feed/
 https://www.journaldunet.com/rss/
+https://www.journaldunet.com/web-tech/cloud/1488761-cloud-computing/
 https://www.silicon.fr/feed/
+https://www.silicon.fr/actualites/blockchain
+https://www.silicon.fr/actualites/cybersecurite
+https://www.silicon.fr/actualites/data-storage
+https://www.silicon.fr/actualites/green-it
+https://www.silicon.fr/actualites/software
+https://www.silicon.fr/actualites/workspace
 
 # French Tech News
 https://www.alliancy.fr/feed
@@ -106,12 +130,15 @@ https://thenextweb.com/feed/
 https://www.computing.co.uk/feed
 https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml
 https://www.informationage.com/feed/
+https://www.bbc.com/news/topics/ce2591xw5lmt
 
 # French Business News
 https://www.bfmtv.com/economie/rss/
 https://www.lexpansion.com/rss/
 
+# International Tech Media
 http://allafrica.com/tools/headlines/rdf/ict/headlines.rdf
+http://aptantech.com
 http://aptantech.com/feed/
 http://arsindustrialis.org/blog/feed
 http://business-crunch.com/feed/
@@ -142,7 +169,7 @@ http://feeds.feedburner.com/typepad/alleyinsider/silicon_alley_insider
 http://feeds.feedburner.com/undernews/oCmA
 http://feeds.feedburner.com/venturebeat/SZYF
 http://feeds.feedburner.com/zdnet/Hinchcliffe
-http://feeds.washingtonpost.com/rss/rss_innovations?noredirect=on
+http://feeds.washingtonpost.com/rss/innovations?noredirect=on
 http://feeds2.feedburner.com/ad-exchange-news
 http://feeds2.feedburner.com/telecomtalk/CIeV
 http://feeds2.feedburner.com/thenextweb
@@ -181,6 +208,7 @@ https://digital-business-news.com/feed/
 https://dongknows.com/comments/feed/
 https://dongknows.com/feed/
 https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
+https://electronics360.globalspec.com/
 https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeGVpSVQ==
 https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeGVtQXQ==
 https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeGVtQXw==
@@ -195,13 +223,16 @@ https://fr.blog.businessdecision.com/feed/
 https://gizmodo.com/feed
 https://gsacom.com/feed/
 https://hitek.fr/rss
+https://hostingjournalist.com/news
 https://humanoid.fr/feed/atom/
 https://in.mashable.com/sleep.xml
+https://indianexpress.com/section/technology/
 https://insidegnss.com/feed/
 https://iotbusinessnews.com/feed/
 https://iottechnews.com/feed/
 https://itsocial.fr/feed/
 https://journal.uptimeinstitute.com/feed/
+https://martechseries.com/
 https://mydigitalweek.com/feed/
 https://next.ink/feed/free
 https://pierrelevyblog.com/feed/
@@ -245,6 +276,7 @@ https://telecom.economictimes.indiatimes.com/rss/internet
 https://telecom.economictimes.indiatimes.com/rss/policy
 https://telecom.economictimes.indiatimes.com/rss/recentstories
 https://telecom.economictimes.indiatimes.com/rss/topstories
+https://telecom.economictimes.indiatimes.com
 https://telecomstechnews.com/feed/
 https://the-digital-reader.com/feed/
 https://thegradient.pub/rss/
@@ -270,6 +302,7 @@ https://www.channelnews.fr/feed
 https://www.clubic.com/articles.rss
 https://www.clubic.com/feed/news-pro.rss
 https://www.clubic.com/feed/news.rss
+https://www.cnbc.com/telecom/
 https://www.cnet.com/rss/all/
 https://www.cnet.com/rss/news/
 https://www.cnetfrance.fr/feeds/rss/
@@ -301,11 +334,14 @@ https://www.computerweekly.com/rss/Storage.xml
 https://www.computerweekly.com/rss/Video.xml
 https://www.computerworld.com/feed/
 https://www.decideo.fr/xml/syndication.rss
+https://www.degrouptest.com/actualite
 https://www.digitalbusiness.africa/feed/
 https://www.digitaltrends.com/?feed=rss
 https://www.digitaltrends.com/?feed=rss2
 https://www.digitaltrends.com/feed/rss/
 https://www.distributique.com/flux-rss/rss.php
+https://www.docaposte.com/blog
+https://www.echosdunet.net/breves
 https://www.engadget.com/rss.xml
 https://www.fiercetelecom.com/rss/telecom/xml
 https://www.fiercetelecom.com/rss/xml
@@ -317,6 +353,7 @@ https://www.fiercewireless.com/rss/xml
 https://www.forbes.com/innovation/feed/
 https://www.francemobiles.com/rss/news.php
 https://www.frandroid.com/feed
+https://www.freenews.fr
 https://www.freenews.fr/feed
 https://www.futura-sciences.com/rss/high-tech/actualites.xml
 https://www.generation-nt.com/export/rss.xml
@@ -332,6 +369,7 @@ https://www.informatiquenews.fr/feed
 https://www.informatiquenews.fr/news/securite/feed
 https://www.infoworld.com/feed/
 https://www.iot-now.com/feed/
+https://www.iotforall.com/topics/news
 https://www.itforbusiness.fr/feed
 https://www.itnews.com.au/rss/rss.ashx
 https://www.itproportal.com/feeds/all/
@@ -357,6 +395,7 @@ https://www.kdnuggets.com/feed
 https://www.ladn.eu/feed/
 https://www.ladn.eu/nouveaux-usages/feed/
 https://www.ladn.eu/tag/intelligence-artificielle/feed/
+https://www.ladn.eu/tech-a-suivre
 https://www.ladn.eu/tech-a-suivre/feed/
 https://www.larevuedudigital.com/feed/
 https://www.lebigdata.fr/feed
@@ -385,9 +424,12 @@ https://www.lemondeinformatique.fr/flux-rss/thematique/toutes-les-actualites/rss
 https://www.lemondeinformatique.fr/flux-rss/thematique/virtualisation/rss.xml
 https://www.lemondenumerique.com/feed/
 https://www.les-objets-connectes.fr/feed/
+https://www.lightreading.com
+https://www.lightreading.com/
 https://www.mac4ever.com/rss/actu
 https://www.macg.co/news/feed
 https://www.meta-media.fr/feed
+https://www.mobileeurope.co.uk
 https://www.mobileeurope.co.uk/feed/
 https://www.mobileworldlive.com/homepage/feed/
 https://www.networkworld.com/feed/
@@ -405,11 +447,12 @@ https://www.phonearena.com/feed/news
 https://www.phonearena.com/feed/reviews
 https://www.phonescoop.com/rss/news.php
 https://www.presse-citron.net/feed/
+https://www.prnewswire.com/news-releases/news-releases-list/
 https://www.rtinsights.com/feed/
 https://www.satellitetoday.com/feed/
 https://www.satellitetoday.com/feed/atom/
 https://www.satellitetoday.com/feed/rdf/
-https://www.servicesmobiles.fr/feed
+https://www.sdxcentral.com/
 https://www.servicesmobiles.fr/feed/
 https://www.stuffi.fr/feed/
 https://www.techdirt.com/techdirt_rss.xml
@@ -438,7 +481,9 @@ https://www.techradar.com/rss/reviews/cameras-and-camcorders
 https://www.techradar.com/rss/reviews/gaming
 https://www.techradar.com/rss/reviews/pc-mac
 https://www.techradar.com/rss/reviews/phones
+https://www.telcotitans.com/latest/22.more?navcode=2
 https://www.telecompaper.com/syndication/rss.aspx
+https://www.telecompaper.com/syndication/reports.aspx
 https://www.telecompaper.com/syndication/rssgeneral.aspx
 https://www.telecompaper.com/syndication/rssmobile.aspx
 https://www.telecompetitor.com/feed/
@@ -451,6 +496,7 @@ https://www.theverge.com/rss/tech/index.xml
 https://www.totaltele.com/rss
 https://www.universfreebox.com/feed
 https://www.universfreebox.com/rubrique/news,breve,actu-telecom/feed
+https://www.usinenouvelle.com/club-inno/
 https://www.villeintelligente-mag.fr/xml/syndication.rss
 https://www.wired.com/feed/rss
 https://www.zdnet.com/blog/collaboration/rss.xml
@@ -466,6 +512,7 @@ https://www.zdnet.fr/feeds/rss/actualites/informatique/
 https://www.zdnet.fr/feeds/rss/actualites/internet/
 https://www.zdnet.fr/feeds/rss/actualites/telecoms/
 https://www.zdnet.fr/feeds/rss/actualites/telecoms/?l=5
+
 # ================================
 # CATEGORY 4: Regulatory & Government Bodies (12 sources)
 # ================================
@@ -585,6 +632,7 @@ http://www.latribune.fr/rss/sous-rubriques-techno-medias/internet.html
 http://www.latribune.fr/rss/sous-rubriques-techno-medias/medias.html
 https://www.latribune.fr/rss/rubriques/techno-medias.html
 https://www.latribune.fr/rss/sous-rubriques-entreprises/communication.html
+
 # ================================
 # CATEGORY 8: Academic & Research (10 sources)
 # ================================
@@ -644,6 +692,8 @@ https://www.bpifrance.fr/feed/
 https://www.capdigital.com/feed/
 
 https://www.frenchweb.fr/feed
+https://aiweekly.co/issues/341#start
+
 # ================================
 # CATEGORY 10: Cybersecurity & Cloud Security (15 sources)
 # ================================
@@ -662,6 +712,7 @@ https://www.sans.org/rss/
 https://krebsonsecurity.com/feed/
 https://www.schneier.com/blog/atom.xml
 https://www.darkreading.com/rss.xml
+http://www.globalsecuritymag.fr/spip.php?page=backend
 
 # Cloud Security Specific
 https://cloudsecurityalliance.org/feed/
@@ -683,6 +734,7 @@ https://www.undernews.fr/theme/reseau-securite/feed
 https://www.undernews.fr/theme/undernews/feed
 https://www.undernews.fr/theme/warez-telechargement/feed
 https://www.zataz.com/feed/
+
 # ================================
 # CATEGORY 11: Legal & Compliance (8 sources)
 # ================================
@@ -718,6 +770,7 @@ https://opensource.com/feed/
 
 # Standards Bodies
 https://www.etsi.org/feed/
+https://www.etsi.org/component/ninjarsssyndicator/?feed_id=1&format=raw
 https://www.w3.org/blog/news/feed/
 
 # Open Source Projects
@@ -731,6 +784,7 @@ https://openforumeurope.org/feed/
 # Developer Communities
 https://dev.to/feed/
 https://www.infoq.com/feed/
+https://feed.infoq.com/fr
 
 # Note: ETSI is key for European telecom and ICT standards.
 # CNCF covers cloud-native computing including Kubernetes.
@@ -755,6 +809,4 @@ https://www.websummit.com/feed/
 # END OF RSS FEED LIST
 # Note: Not all URLs above are active RSS feeds - some require manual checking
 # or newsletter subscription. Priority given to French/European sources.
-https://feed.infoq.com/fr
-https://www.etsi.org/component/ninjarsssyndicator/?feed_id=1&format=raw
 # ================================
